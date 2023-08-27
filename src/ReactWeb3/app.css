@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.loginBtn, .logoutBtn {
+  border: 2px solid blue;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: transparent;
+}
+.connected {
+  color: green;
+  
+}
