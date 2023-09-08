@@ -1,0 +1,8 @@
+npx create-react-app .
+npm start
+
+touch .env
+Paste API key
+https://dashboard.clerk.com/
+
+npm i @clerk/clerk-react
