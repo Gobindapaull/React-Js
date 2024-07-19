@@ -1,2 +1,5 @@
 google fonts
+bootstrap
+alt + z = word wrap
+https://youtu.be/DGXlyxTgnfs?si=zlKYnIJVGaIgigtZ
 
