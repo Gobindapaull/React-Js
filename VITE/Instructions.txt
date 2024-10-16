@@ -1,0 +1,20 @@
+mkdir project-name
+cd project-name
+code .
+
+mkdir frontend backend
+
+cd frontend
+
+vitejs.dev
+npm create vite@latest .
+npm install
+npm run dev
+
+tailwindcss > Docs > Framework Guids > Vite
+
+react router dom
+npm install react-router-dom
+
+mkdir src/compnents routers pages utils redux 
+
