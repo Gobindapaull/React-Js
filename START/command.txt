@@ -1,3 +1,4 @@
 npx create-react-app test-app --template typescript
-npm install ajv@latest ajv-keywords@latest react-router-dom react-i18next i18next json-loader
+npm install ajv@latest ajv-keywords@latest
+npm install react-router-dom react-i18next i18next json-loader
 npm start
