@@ -1,0 +1,24 @@
+html {
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+}
+
+section {
+    height: 100vh;
+    scroll-snap-align: center;
+}
+
+section:nth-child(1) {
+    background-color: #2f204e;
+}
+section:nth-child(2) {
+    background-color: #492493;
+}
+section:nth-child(3) {
+    background-color: #1b3169;
+}
+section:nth-child(4) {
+    background-color: #421d0b;
+}
+
+.hSection*2
