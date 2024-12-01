@@ -1,0 +1,4 @@
+npx create-react-app . -y
+npm i ajv ethers
+npm start
+npm run build
