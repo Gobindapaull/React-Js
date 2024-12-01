@@ -7,8 +7,8 @@ npm i ajv
 npm start
 
 #for production
-npm run build
 
+npm run build
 
 
 bun
