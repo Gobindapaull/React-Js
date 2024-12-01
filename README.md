@@ -6,6 +6,8 @@ npm i ajv
 
 npm start
 
+npm run build
+
 #for production
 npm run build
 
