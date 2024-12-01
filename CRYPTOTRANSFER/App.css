@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  margin-top: 0px;
+  background-color: black;
+  padding: 20px;
+  color: white;
+  font-size: xx-large;
+}
+button {
+  padding: 7px;
+  border-radius: 10px;
+  border: 1px solid blue;
+  font-size: 20px;
+}
+input {
+  width: 50%;
+  padding: 10px 15px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  transition: border-color 0.3s ease;
+}
