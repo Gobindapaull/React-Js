@@ -24,3 +24,13 @@ bun
 [4] bun run dev
 
 [5] bun vite build
+
+# Vite
+
+[1] npm create vite@latest ./ -y
+
+[2] npm install
+
+[3] npm run dev
+
+[4] rm -rf * .*
