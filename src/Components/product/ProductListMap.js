@@ -15,16 +15,14 @@ const products = [{
 }]
 const ProductList = () => {
 
-    const callback = (element, index) => {
-        return (
-            <Product {...element} key={index} />
-        )
-    }
-
     return (
         <div>
             {
-                products.map(callback)
+                products.map((element, index) => {
+                    return (
+                        <Product {...element} key={index} />
+                    )
+                })
             }
         </div>
     );
