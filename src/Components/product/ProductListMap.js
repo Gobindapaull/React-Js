@@ -21,12 +21,10 @@ const ProductList = () => {
         )
     }
 
-    const newProducts = products.map(callback);
-
     return (
         <div>
             {
-                newProducts
+                products.map(callback)
             }
         </div>
     );
