@@ -1,12 +1,15 @@
+import car from "../images/car.jpg"; // src/images
+import hotel from "../images/hotel.jpg";
+
 const products = [{
     name: "Car",
     price: "1000000",
-    image: "images/car.jpg"
+    image: car
 },
 {
     name: "hotel",
     price: "10000000",
-    image: "images/hotel.jpg"
+    image: hotel
 }]
 
 export default products;
