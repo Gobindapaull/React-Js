@@ -1,0 +1,6 @@
+- npm create vite@latest .
+- npm install @dnd-kit/core @dnd-kit/sortable @dnd-kit/utilities
+- npm run dev
+- http://localhost:5173
+- src/App.tsx
+- Use localStorage to save the dragged order
