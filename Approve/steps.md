@@ -1,0 +1,5 @@
+- npm create vite@latest .
+- React + Typescript
+- npm install ethers
+- npm install tailwindcss @tailwindcss/vite
+- vite.config.ts > import tailwindcss from "@tailwindcss/vite";
