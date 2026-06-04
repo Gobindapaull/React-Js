@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background: #0f172a;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background: #1e293b;
+  padding: 30px;
+  border-radius: 16px;
+  text-align: center;
+}
+
+.card h1 {
+  color: white;
+}
+
+.generate-btn {
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.qr-container {
+  margin-top: 20px;
+}
+
+.qr-container img {
+  width: 250px;
+}
