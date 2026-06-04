@@ -1,0 +1,4 @@
+- npm create vite@latest .
+- React + Typescript
+- npm i qrcode
+- npm run dev
